@@ -14,13 +14,6 @@ A multi-product time-series forecasting framework designed to project 30-day out
 - [Install](#install)
 - [Usage](#usage)
 - [Generator](#generator)
-- [Badge](#badge)
-- [Example READMEs](#example-readmes)
-- [Related Efforts](#related-efforts)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [Contributors](#contributors)
-- [License](#license)
 
 ---
 
