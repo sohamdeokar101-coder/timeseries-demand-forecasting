@@ -6,7 +6,7 @@
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14+-blue.svg?style=flat-square)](https://www.statsmodels.org/)
 [![PyTest](https://img.shields.io/badge/PyTest-Passed-brightgreen.svg?style=flat-square)](https://docs.pytest.org/)
 
-A multi-product time-series forecasting framework designed to project 30-day out-of-sample demand for German retail and e-commerce markets. The pipeline performs time-series stationarity verification using the Augmented Dickey-Fuller (ADF) test, executes temporal lag feature engineering, trains independent Random Forest Regressors per product SKU, and outputs predictions bounded by 95% confidence intervals.
+A multi-product time-series forecasting framework designed to project 30-day out-of-sample demand for German retail and e-commerce markets. The pipeline performs time-series stationarity verification using the Augmented Dickey-Fuller (ADF) test, executes temporal lag feature engineering, trains independent Random Forest Regressors per product SKU, and outputs predictions bounded by 85% confidence intervals.
 
 ## Table of Contents
 
